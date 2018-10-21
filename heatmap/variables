@@ -1,0 +1,16 @@
+patient: Number of user
+gender: 1 male 2 female
+facialaesthetics: Face Aesthetics perception (0 to 10)
+dentalaesthetics: Dental Aesthetics perception (0 to 10)
+perception: Smell function (0 to 10)
+breath: Breathing function (0 to 10)
+bite: Occlusion comfort (0 to 10)
+speak: Speaking function (0 to 10)
+swallow: Swallow function (0 to 10)
+cost: Cost/benefit perception (0 to 10)
+benefit: Benefit/pain perception (0 to 10)
+satisfaction: General satisfaction (0 to 10)
+complication1: Complications at 7 days (0 = None, 1 = Nausea, 2 = Swelling, 3 = Dysphagia, 4 =  Numbness, 5 = Drowsiness, 6 =  Pain, 7 = Fatigue)
+complication2: Complications at 14 days (0 = None, 1 = Nausea, 2 = Swelling, 3 = Dysphagia, 4 =  Numbness, 5 = Drowsiness, 6 =  Pain, 7 = Fatigue)
+recovery: Months to recovery
+wait: Months between diagnosis and treatment
